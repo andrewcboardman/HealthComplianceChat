@@ -1,0 +1,7 @@
+.env
+data/*
+.venv
+.streamlit
+.mypy_cache
+__pycache__
+.github_pat

@@ -5,3 +5,4 @@ This repo contains scripts from a hackathon where NHSE collaborated with Microso
 * make a virtual Python environment and activate it (I used Python 3.12)
 * Install the required packages (`pip install requirements.txt`)
 * Run the app by typing `streamlit run HealthChat/streamlit_app_v2.py` on Windows or `make run` on Linux/MacOS.
+* Also included is a class for using the Promptflow API, which didn't work during the hackathon but may be useful.
